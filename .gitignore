@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Envs & tools
+.venv/
+venv/
+env/
+*.sqlite
+.DS_Store
+Thumbs.db
+
+# Data you don't want tracked (uncomment as needed)
+# data/*.csv
+# results/
